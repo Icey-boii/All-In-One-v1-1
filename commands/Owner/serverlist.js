@@ -17,7 +17,7 @@ module.exports = {
      */
     run: async (client, message, args, prefix) => {
         try {
-            const owner = ["882481863661342770", "839363882162192405"];
+            const owner = ["902883391421153290"];
 
             if (owner.includes(message.author.id) === false) {
                 return;

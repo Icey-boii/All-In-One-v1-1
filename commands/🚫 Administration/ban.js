@@ -34,7 +34,7 @@ module.exports = {
             message.channel.send(
                 new MessageEmbed()
                     .setColor(ee.color)
-                    .setDescription(`** Your Role is Not High To Ban this User`)
+                    .setDescription(`My Role is Not High To Ban this User`)
                     .setFooter(ee.footertext)
             )
         }

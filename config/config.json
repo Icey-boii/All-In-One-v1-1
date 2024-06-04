@@ -1,10 +1,10 @@
 {
-  "token": "Bot_TOKEN",
-  "prefix": "!",
+  "token": "Your_BOT_TOKEN",
+  "prefix": "Your_Prefix",
   "ownerIDS": [
-    "882481863661342770"
+    "Your_ID"
   ],
-  "mongo": "MONGO_DB_URL",
+  "mongo": "mongodb+srv://user:YaAjyu26KaPt9pi1@cluster0.hmwwh.mongodb.net/Public2?retryWrites=true&w=majority",
   "everyoneMention": false,
   "hostedBy": true,
   "customFilters": {
